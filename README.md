@@ -1,6 +1,7 @@
 # CSU_paddy_weed_detection_datasets
 This is a dataset used for paddy weed detection. Please cite our paper for using.
 
+- We declare that this dataset is for academic research only and is not to be used for commercial behavior or other purposes.
 - You can download the CSU_paddy_weed_detection_dataset_Version1.0 by the link in Release.
 - This dataset include three different types of paddy weeds: BS, AS, PL;
 - Taken in Zoomlion Smart Agriculture Base in Yuelu and Yingchang Agriculture Base in Liuyang, Changsha, Hunan Province, China.
