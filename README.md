@@ -1,4 +1,4 @@
-# CSU_paddy_weed_detection_datasets
+# CSU_paddy_weed_detection_dataset
 This is a dataset used for paddy weed detection. Please cite our paper for using.
 
 - You can download the CSU_paddy_weed_detection_dataset_Version1.0 by the link in Release.
